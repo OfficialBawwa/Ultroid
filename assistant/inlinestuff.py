@@ -155,7 +155,7 @@ async def repo(e):
             text="• **ULTROID USERBOT** •",
             buttons=[
                 [
-                    Button.url("Repo", url="https://github.com/TeamUltroid/Ultroid"),
+                    Button.url("Repo", url="https://github.com/OfficialBawwa/Ultroid"),
                     Button.url(
                         "Addons", url="https://github.com/TeamUltroid/UltroidAddons"
                     ),
