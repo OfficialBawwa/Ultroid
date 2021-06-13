@@ -8,7 +8,7 @@
 from datetime import datetime
 
 
-@asst_cmd("ping")
+@asst_cmd("වැඩ පකෝ!!")
 @owner
 async def _(event):
     start = datetime.now()
